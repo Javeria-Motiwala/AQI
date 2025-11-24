@@ -1,5 +1,4 @@
 timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,pollutant,min,max
-2025-11-19 22:00:00,5,1305.44,0.0,12.13,103.59,11.18,272.02,373.8,85.33,history,OpenWeather,Islamabad,,,,,,,,,
 2025-11-19 23:00:00,5,1295.02,0.0,10.8,101.33,10.48,272.85,374.44,88.96,history,OpenWeather,Islamabad,,,,,,,,,
 2025-11-20 00:00:00,5,1293.14,0.0,10.09,98.07,9.73,274.8,376.82,91.68,history,OpenWeather,Islamabad,,,,,,,,,
 2025-11-20 01:00:00,5,1299.21,0.0,10.27,93.14,9.14,274.96,377.15,94.52,history,OpenWeather,Islamabad,,,,,,,,,
@@ -100,8 +99,8 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-11-23 21:00:00,5,728.26,0.0,11.51,68.98,3.01,120.97,213.72,55.05,history,OpenWeather,Islamabad,,,,,,,,,
 2025-11-23 22:00:00,5,711.48,0.0,10.22,70.28,3.15,121.45,215.16,58.05,history,OpenWeather,Islamabad,,,,,,,,,
 2025-11-23 23:00:00,5,708.84,0.0,9.53,71.81,3.33,123.11,217.8,62.83,history,OpenWeather,Islamabad,,,,,,,,,
-2025-11-24 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,3.0
 2025-11-24 00:00:00,5,720.52,0.0,9.54,71.73,3.46,125.69,221.14,68.67,history,OpenWeather,Islamabad,,,,,,,,,
+2025-11-24 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,3.0
 2025-11-24 00:00:00,111,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,pm25,77.0,138.0
 2025-11-24 00:00:00,36,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,23.0,46.0
 2025-11-24 01:00:00,5,748.58,0.0,10.4,69.27,3.52,128.97,224.75,74.38,history,OpenWeather,Islamabad,,,,,,,,,
@@ -124,17 +123,17 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-11-24 18:00:00,5,994.1,0.0,19.03,71.32,3.52,158.55,254.77,41.01,history,OpenWeather,Islamabad,,,,,,,,,
 2025-11-24 19:00:00,5,947.07,0.0,16.56,71.27,3.38,154.93,248.21,41.47,history,OpenWeather,Islamabad,,,,,,,,,
 2025-11-24 20:00:00,5,900.04,0.0,13.81,72.28,3.28,152.41,243.95,41.84,history,OpenWeather,Islamabad,,,,,,,,,
-2025-11-24 21:00:00,5,861.49,0.0,11.52,73.28,3.23,150.83,241.1,42.25,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-24 21:00:00,5,861.49,0.0,11.52,73.28,3.23,150.83,241.1,42.25,history,OpenWeather,Islamabad,,,,,,,,,
-2025-11-24 21:10:51,5,861.49,0.0,11.52,73.28,3.23,150.83,241.1,42.25,current,OpenWeather,Islamabad,,,,,,,,,
 2025-11-24 22:00:00,5,825.63,0.0,9.74,75.04,3.27,148.94,237.64,43.62,forecast,OpenWeather,Islamabad,,,,,,,,,
+2025-11-24 22:00:00,5,825.63,0.0,9.74,75.04,3.27,148.94,237.64,43.62,history,OpenWeather,Islamabad,,,,,,,,,
+2025-11-24 22:08:12,5,825.63,0.0,9.74,75.04,3.27,148.94,237.64,43.62,current,OpenWeather,Islamabad,,,,,,,,,
 2025-11-24 23:00:00,5,801.61,0.0,8.58,77.34,3.42,148.18,235.63,46.65,forecast,OpenWeather,Islamabad,,,,,,,,,
-2025-11-25 00:00:00,104,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,pm25,68.0,138.0
-2025-11-25 00:00:00,5,788.84,0.0,8.13,78.58,3.59,148.16,234.73,50.6,forecast,OpenWeather,Islamabad,,,,,,,,,
-2025-11-25 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,3.0
-2025-11-25 00:00:00,166,,,,,,,,,current,AQICN,Islamabad,7.0,76.4,962.6,166.0,11.0,2.0,,,
 2025-11-25 00:00:00,34,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,23.0,46.0
+2025-11-25 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,3.0
+2025-11-25 00:00:00,5,788.84,0.0,8.13,78.58,3.59,148.16,234.73,50.6,forecast,OpenWeather,Islamabad,,,,,,,,,
+2025-11-25 00:00:00,104,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,pm25,68.0,138.0
 2025-11-25 01:00:00,5,798.4,0.0,8.65,78.71,3.8,149.45,235.55,55.62,forecast,OpenWeather,Islamabad,,,,,,,,,
+2025-11-25 01:00:00,163,,,,,,,,,current,AQICN,Islamabad,5.9,75.7,962.2,163.0,10.0,2.0,,,
 2025-11-25 02:00:00,5,848.35,0.0,11.68,76.03,4.18,152.3,239.57,62.05,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-25 03:00:00,5,941.12,0.28,17.92,69.66,4.65,155.52,244.94,68.58,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-25 04:00:00,5,1024.13,2.56,20.79,64.95,4.76,156.47,247.37,70.96,forecast,OpenWeather,Islamabad,,,,,,,,,
@@ -157,10 +156,10 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-11-25 21:00:00,5,731.57,0.0,13.17,58.76,3.24,119.52,195.94,40.8,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-25 22:00:00,5,715.96,0.0,12.09,59.44,3.4,120.58,196.17,45.11,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-25 23:00:00,5,712.35,0.0,11.54,59.8,3.58,122.33,197.52,50.47,forecast,OpenWeather,Islamabad,,,,,,,,,
-2025-11-26 00:00:00,32,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,23.0,43.0
-2025-11-26 00:00:00,5,719.73,0.0,11.72,58.98,3.72,124.48,199.78,56.62,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-26 00:00:00,97,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,pm25,77.0,129.0
+2025-11-26 00:00:00,32,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,23.0,43.0
 2025-11-26 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,4.0
+2025-11-26 00:00:00,5,719.73,0.0,11.72,58.98,3.72,124.48,199.78,56.62,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-26 01:00:00,5,745.41,0.0,13.11,56.26,3.84,126.89,202.63,63.45,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-26 02:00:00,5,808.89,0.0,16.97,51.17,4.15,130.57,208.63,70.77,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-26 03:00:00,5,911.27,0.8,22.72,43.86,4.54,134.75,215.92,76.04,forecast,OpenWeather,Islamabad,,,,,,,,,
@@ -184,9 +183,9 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-11-26 21:00:00,5,863.51,0.0,14.73,66.37,5.03,150.83,260.45,55.76,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-26 22:00:00,5,831.93,0.0,12.39,68.27,5.2,152.37,262.54,57.26,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-26 23:00:00,5,817.11,0.0,11.02,70.28,5.47,154.54,264.94,61.18,forecast,OpenWeather,Islamabad,,,,,,,,,
-2025-11-27 00:00:00,45,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,38.0,46.0
 2025-11-27 00:00:00,134,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,pm25,115.0,138.0
 2025-11-27 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,4.0
+2025-11-27 00:00:00,45,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,38.0,46.0
 2025-11-27 00:00:00,5,820.26,0.0,10.77,70.65,5.72,157.09,267.36,67.3,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-27 01:00:00,5,843.33,0.0,11.76,68.63,5.83,159.11,268.46,74.09,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-27 02:00:00,5,903.99,0.0,15.21,63.9,5.97,162.61,273.25,80.13,forecast,OpenWeather,Islamabad,,,,,,,,,
@@ -212,8 +211,8 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-11-27 22:00:00,5,751.88,0.0,10.55,66.56,3.85,137.91,212.93,44.36,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-27 23:00:00,5,731.4,0.0,9.8,69.43,4.44,136.85,208.97,50.75,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-28 00:00:00,134,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,pm25,89.0,138.0
-2025-11-28 00:00:00,45,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,28.0,46.0
 2025-11-28 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,4.0
+2025-11-28 00:00:00,45,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,28.0,46.0
 2025-11-28 00:00:00,5,728.92,0.0,9.96,70.76,4.91,136.8,206.85,57.46,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-28 01:00:00,5,747.25,0.0,11.21,69.67,5.17,138.23,207.6,63.51,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-28 02:00:00,5,808.41,0.0,15.07,65.34,5.47,141.79,213.24,68.89,forecast,OpenWeather,Islamabad,,,,,,,,,
@@ -235,9 +234,10 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-11-28 18:00:00,5,995.89,0.0,22.61,69.9,4.59,143.21,219.66,49.42,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-28 19:00:00,5,960.95,0.0,20.33,68.64,4.4,142.71,218.67,51.56,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-28 20:00:00,5,918.05,0.0,17.33,69.85,4.43,141.99,217.2,55.86,forecast,OpenWeather,Islamabad,,,,,,,,,
+2025-11-28 21:00:00,5,879.11,0.0,14.81,71.42,4.51,141.38,215.71,60.62,forecast,OpenWeather,Islamabad,,,,,,,,,
 2025-11-29 00:00:00,143,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,pm25,138.0,157.0
 2025-11-29 00:00:00,49,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,46.0,57.0
-2025-11-29 00:00:00,0,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,0.0
+2025-11-29 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,uvi,0.0,3.0
 2025-11-30 00:00:00,146,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,pm25,138.0,159.0
 2025-11-30 00:00:00,51,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,46.0,58.0
 2025-12-01 00:00:00,55,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,pm10,37.0,58.0
