@@ -1,16 +1,16 @@
 timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,pollutant,min,max
 2025-03-02 00:00:00,138,,,,,,,,,forecast_pm25,AQICN,Karachi,,,,,,,pm25,89.0,158.0
-2025-03-02 00:00:00,15,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,6.0,48.0
 2025-03-02 00:00:00,93,,,,,,,,,forecast_pm10,AQICN,Karachi,,,,,,,pm10,73.0,123.0
+2025-03-02 00:00:00,15,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,6.0,48.0
 2025-03-02 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Karachi,,,,,,,uvi,0.0,6.0
 2025-03-03 00:00:00,169,,,,,,,,,forecast_pm25,AQICN,Karachi,,,,,,,pm25,89.0,252.0
 2025-03-03 00:00:00,213,,,,,,,,,forecast_pm10,AQICN,Karachi,,,,,,,pm10,62.0,396.0
 2025-03-03 00:00:00,19,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,17.0,23.0
 2025-03-03 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Karachi,,,,,,,uvi,0.0,6.0
 2025-03-04 00:00:00,2,,,,,,,,,forecast_uvi,AQICN,Karachi,,,,,,,uvi,0.0,7.0
-2025-03-04 00:00:00,13,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,4.0,36.0
 2025-03-04 00:00:00,384,,,,,,,,,forecast_pm10,AQICN,Karachi,,,,,,,pm10,322.0,396.0
 2025-03-04 00:00:00,225,,,,,,,,,forecast_pm25,AQICN,Karachi,,,,,,,pm25,180.0,252.0
+2025-03-04 00:00:00,13,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,4.0,36.0
 2025-03-04 16:00:00,161,,,,,,,,,current,AQICN,Karachi,-19.0,3.0,1016.0,161.0,31.0,5.1,,,
 2025-03-05 00:00:00,2,,,,,,,,,forecast_uvi,AQICN,Karachi,,,,,,,uvi,0.0,8.0
 2025-03-05 00:00:00,342,,,,,,,,,forecast_pm10,AQICN,Karachi,,,,,,,pm10,201.0,396.0
@@ -21,13 +21,13 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-03-06 00:00:00,137,,,,,,,,,forecast_pm25,AQICN,Karachi,,,,,,,pm25,89.0,174.0
 2025-03-06 00:00:00,2,,,,,,,,,forecast_uvi,AQICN,Karachi,,,,,,,uvi,0.0,8.0
 2025-03-07 00:00:00,162,,,,,,,,,forecast_pm10,AQICN,Karachi,,,,,,,pm10,90.0,322.0
-2025-03-07 00:00:00,8,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,1.0,56.0
 2025-03-07 00:00:00,146,,,,,,,,,forecast_pm25,AQICN,Karachi,,,,,,,pm25,104.0,170.0
 2025-03-07 00:00:00,2,,,,,,,,,forecast_uvi,AQICN,Karachi,,,,,,,uvi,0.0,9.0
+2025-03-07 00:00:00,8,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,1.0,56.0
 2025-03-08 00:00:00,148,,,,,,,,,forecast_pm25,AQICN,Karachi,,,,,,,pm25,138.0,174.0
 2025-03-08 00:00:00,2,,,,,,,,,forecast_uvi,AQICN,Karachi,,,,,,,uvi,0.0,9.0
-2025-03-08 00:00:00,133,,,,,,,,,forecast_pm10,AQICN,Karachi,,,,,,,pm10,101.0,396.0
 2025-03-08 00:00:00,9,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,5.0,30.0
+2025-03-08 00:00:00,133,,,,,,,,,forecast_pm10,AQICN,Karachi,,,,,,,pm10,101.0,396.0
 2025-03-09 00:00:00,0,,,,,,,,,forecast_uvi,AQICN,Karachi,,,,,,,uvi,0.0,0.0
 2025-03-09 00:00:00,12,,,,,,,,,forecast_o3,AQICN,Karachi,,,,,,,o3,11.0,14.0
 2025-03-09 00:00:00,123,,,,,,,,,forecast_pm10,AQICN,Karachi,,,,,,,pm10,123.0,123.0
@@ -136,9 +136,9 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2026-02-02 04:00:00,5,469.51,0.1,4.51,108.39,10.28,77.74,189.46,4.01,history,OpenWeather,Karachi,,,,,,,,,
 2026-02-02 05:00:00,5,527.28,0.35,4.93,114.98,11.08,96.58,235.73,4.89,history,OpenWeather,Karachi,,,,,,,,,
 2026-02-02 06:00:00,5,559.68,0.47,4.73,126.69,11.34,110.68,266.65,5.37,history,OpenWeather,Karachi,,,,,,,,,
-2026-02-02 06:00:00,5,559.68,0.47,4.73,126.69,11.34,110.68,266.65,5.37,forecast,OpenWeather,Karachi,,,,,,,,,
-2026-02-02 06:51:34,5,566.11,0.43,3.97,141.05,11.24,118.6,278.98,5.52,current,OpenWeather,Karachi,,,,,,,,,
+2026-02-02 07:00:00,5,566.11,0.43,3.97,141.05,11.24,118.6,278.98,5.52,history,OpenWeather,Karachi,,,,,,,,,
 2026-02-02 07:00:00,5,566.11,0.43,3.97,141.05,11.24,118.6,278.98,5.52,forecast,OpenWeather,Karachi,,,,,,,,,
+2026-02-02 07:42:44,5,565.35,0.32,3.12,155.54,11.03,123.93,282.14,5.45,current,OpenWeather,Karachi,,,,,,,,,
 2026-02-02 08:00:00,5,565.35,0.32,3.12,155.54,11.03,123.93,282.14,5.45,forecast,OpenWeather,Karachi,,,,,,,,,
 2026-02-02 09:00:00,5,556.77,0.23,2.48,168.02,11.01,126.52,278.43,5.22,forecast,OpenWeather,Karachi,,,,,,,,,
 2026-02-02 10:00:00,5,554.98,0.18,2.24,178.7,11.22,128.29,274.75,5.09,forecast,OpenWeather,Karachi,,,,,,,,,
@@ -233,3 +233,4 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2026-02-06 03:00:00,5,516.2,0.0,2.66,116.52,7.09,94.54,169.42,7.61,forecast,OpenWeather,Karachi,,,,,,,,,
 2026-02-06 04:00:00,5,505.62,0.08,3.34,116.55,6.96,93.34,169.14,7.74,forecast,OpenWeather,Karachi,,,,,,,,,
 2026-02-06 05:00:00,5,504.11,0.27,3.77,120.28,7.03,93.2,170.39,7.84,forecast,OpenWeather,Karachi,,,,,,,,,
+2026-02-06 06:00:00,5,509.71,0.41,3.97,129.76,7.35,95.18,173.72,7.74,forecast,OpenWeather,Karachi,,,,,,,,,
