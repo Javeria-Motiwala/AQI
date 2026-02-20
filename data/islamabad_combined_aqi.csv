@@ -1,9 +1,9 @@
 timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,r,t,w,pollutant,min,max
-2026-02-14 00:00:00,35,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,19.0,46.0
 2026-02-14 00:00:00,108,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,68.0,138.0
+2026-02-14 00:00:00,35,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,19.0,46.0
 2026-02-14 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,4.0
-2026-02-15 00:00:00,78,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,59.0,89.0
 2026-02-15 00:00:00,24,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,18.0,28.0
+2026-02-15 00:00:00,78,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,59.0,89.0
 2026-02-15 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,4.0
 2026-02-16 00:00:00,87,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,68.0,129.0
 2026-02-16 00:00:00,27,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,19.0,43.0
@@ -32,9 +32,9 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,r,t,
 2026-02-16 21:00:00,5,993.83,0.0,24.19,44.4,3.42,96.09,147.64,130.08,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-16 22:00:00,5,914.74,0.0,20.44,48.8,2.67,93.14,141.11,112.07,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-16 23:00:00,5,894.73,0.0,18.59,45.58,2.09,95.25,141.18,103.95,history,OpenWeather,Islamabad,,,,,,,,,,
-2026-02-17 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,4.0
-2026-02-17 00:00:00,132,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,89.0,157.0
 2026-02-17 00:00:00,47,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,28.0,57.0
+2026-02-17 00:00:00,132,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,89.0,157.0
+2026-02-17 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,4.0
 2026-02-17 00:00:00,5,919.74,0.0,18.03,41.29,1.81,101.88,147.71,100.99,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-17 01:00:00,5,993.95,0.0,18.22,39.58,1.83,116.41,169.04,91.54,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-17 02:00:00,5,1070.15,0.06,20.09,34.36,1.88,123.32,177.81,80.52,history,OpenWeather,Islamabad,,,,,,,,,,
@@ -59,9 +59,9 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,r,t,
 2026-02-17 21:00:00,4,858.8,0.0,18.98,57.26,3.61,66.35,105.38,132.47,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-17 22:00:00,4,842.69,0.0,17.7,58.41,3.54,66.46,105.6,141.92,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-17 23:00:00,4,835.58,0.0,16.93,58.72,3.54,67.01,106.53,153.22,history,OpenWeather,Islamabad,,,,,,,,,,
-2026-02-18 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,4.0
-2026-02-18 00:00:00,105,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,68.0,138.0
 2026-02-18 00:00:00,34,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,19.0,46.0
+2026-02-18 00:00:00,105,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,68.0,138.0
+2026-02-18 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,4.0
 2026-02-18 00:00:00,4,836.04,0.0,16.7,57.14,3.47,68.23,108.13,160.46,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-18 01:00:00,4,849.73,0.0,16.79,51.97,2.67,70.1,110.19,127.04,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-18 02:00:00,4,910.8,0.0,19.0,45.51,2.53,73.55,116.07,110.4,history,OpenWeather,Islamabad,,,,,,,,,,
@@ -86,10 +86,10 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,r,t,
 2026-02-18 21:00:00,5,920.86,0.0,21.56,44.16,3.18,83.48,122.7,124.11,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-18 22:00:00,5,874.17,0.0,18.94,46.04,3.02,83.66,123.53,128.6,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-18 23:00:00,5,840.65,0.0,17.02,47.24,2.84,84.35,125.36,130.9,history,OpenWeather,Islamabad,,,,,,,,,,
-2026-02-19 00:00:00,5,829.98,0.0,16.17,46.52,2.65,86.07,128.32,131.83,history,OpenWeather,Islamabad,,,,,,,,,,
-2026-02-19 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,5.0
 2026-02-19 00:00:00,74,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,64.0,89.0
 2026-02-19 00:00:00,23,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,19.0,28.0
+2026-02-19 00:00:00,5,829.98,0.0,16.17,46.52,2.65,86.07,128.32,131.83,history,OpenWeather,Islamabad,,,,,,,,,,
+2026-02-19 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,5.0
 2026-02-19 01:00:00,5,844.49,0.0,16.45,43.55,2.53,88.47,132.0,130.16,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-19 02:00:00,5,920.63,0.01,19.37,37.59,2.8,93.63,140.53,130.76,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-19 03:00:00,5,1059.48,0.86,24.15,29.14,3.26,101.26,152.56,131.93,history,OpenWeather,Islamabad,,,,,,,,,,
@@ -113,9 +113,9 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,r,t,
 2026-02-19 21:00:00,5,810.0,0.0,16.12,50.69,2.61,81.71,132.34,106.43,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-19 22:00:00,5,814.06,0.0,15.88,47.9,2.57,83.66,134.93,112.81,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-19 23:00:00,5,827.07,0.0,15.99,45.68,2.63,86.14,137.98,121.02,history,OpenWeather,Islamabad,,,,,,,,,,
+2026-02-20 00:00:00,25,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,19.0,28.0
 2026-02-20 00:00:00,5,848.89,0.0,16.54,43.35,2.74,88.93,141.16,130.47,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-20 00:00:00,72,,,,,,,,,forecast_pm25,AQICN,Islamabad,,,,,,,,pm25,64.0,88.0
-2026-02-20 00:00:00,25,,,,,,,,,forecast_pm10,AQICN,Islamabad,,,,,,,,pm10,19.0,28.0
 2026-02-20 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,5.0
 2026-02-20 01:00:00,5,878.24,0.0,17.66,39.83,2.84,91.52,143.93,135.32,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-20 02:00:00,5,959.49,0.05,20.79,32.82,3.02,96.4,151.0,129.42,history,OpenWeather,Islamabad,,,,,,,,,,
@@ -137,9 +137,9 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,r,t,
 2026-02-20 18:00:00,5,831.98,0.0,18.22,59.15,2.49,82.82,123.82,61.06,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-20 19:00:00,5,812.81,0.0,16.9,54.77,2.05,84.31,123.72,63.04,history,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-20 20:00:00,5,769.83,0.0,14.61,54.29,1.7,84.78,122.55,63.79,history,OpenWeather,Islamabad,,,,,,,,,,
-2026-02-20 20:00:00,5,769.83,0.0,14.61,54.29,1.7,84.78,122.55,63.79,forecast,OpenWeather,Islamabad,,,,,,,,,,
-2026-02-20 20:16:47,5,769.83,0.0,14.61,54.29,1.7,84.78,122.55,63.79,current,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-20 21:00:00,5,730.01,0.0,12.52,56.09,1.52,85.34,121.98,63.59,forecast,OpenWeather,Islamabad,,,,,,,,,,
+2026-02-20 21:00:00,5,730.01,0.0,12.52,56.09,1.52,85.34,121.98,63.59,history,OpenWeather,Islamabad,,,,,,,,,,
+2026-02-20 21:14:45,5,730.01,0.0,12.52,56.09,1.52,85.34,121.98,63.59,current,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-20 22:00:00,5,692.15,0.0,10.92,58.45,1.49,85.5,121.1,63.97,forecast,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-20 23:00:00,5,668.09,0.0,10.12,59.06,1.52,86.35,121.22,68.19,forecast,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-21 00:00:00,0,,,,,,,,,forecast_uvi,AQICN,Islamabad,,,,,,,,uvi,0.0,0.0
@@ -239,3 +239,4 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,r,t,
 2026-02-24 17:00:00,5,765.85,0.0,19.33,70.48,4.2,75.54,128.35,63.06,forecast,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-24 18:00:00,5,817.16,0.0,20.47,64.47,4.2,80.06,134.76,72.71,forecast,OpenWeather,Islamabad,,,,,,,,,,
 2026-02-24 19:00:00,5,817.71,0.0,20.29,61.23,4.14,81.95,136.98,86.98,forecast,OpenWeather,Islamabad,,,,,,,,,,
+2026-02-24 20:00:00,5,807.13,0.0,19.34,60.55,4.2,83.81,139.51,105.2,forecast,OpenWeather,Islamabad,,,,,,,,,,
