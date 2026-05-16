@@ -7,15 +7,15 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-02-17 00:00:00,56,,,,,,,,,forecast_pm10,AQICN,Lahore,,,,,,,pm10,46.0,72.0
 2025-02-17 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Lahore,,,,,,,uvi,0.0,4.0
 2025-02-17 00:00:00,4,,,,,,,,,forecast_o3,AQICN,Lahore,,,,,,,o3,1.0,35.0
-2025-02-18 00:00:00,5,,,,,,,,,forecast_o3,AQICN,Lahore,,,,,,,o3,1.0,41.0
-2025-02-18 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Lahore,,,,,,,uvi,0.0,4.0
 2025-02-18 00:00:00,47,,,,,,,,,forecast_pm10,AQICN,Lahore,,,,,,,pm10,28.0,58.0
+2025-02-18 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Lahore,,,,,,,uvi,0.0,4.0
+2025-02-18 00:00:00,5,,,,,,,,,forecast_o3,AQICN,Lahore,,,,,,,o3,1.0,41.0
 2025-02-18 00:00:00,134,,,,,,,,,forecast_pm25,AQICN,Lahore,,,,,,,pm25,81.0,159.0
 2025-02-18 18:00:00,34,,,,,,,,,current,AQICN,Lahore,7.0,32.0,1014.0,34.0,24.5,3.0,,,
 2025-02-19 00:00:00,51,,,,,,,,,forecast_pm10,AQICN,Lahore,,,,,,,pm10,46.0,58.0
 2025-02-19 00:00:00,4,,,,,,,,,forecast_o3,AQICN,Lahore,,,,,,,o3,1.0,41.0
-2025-02-19 00:00:00,125,,,,,,,,,forecast_pm25,AQICN,Lahore,,,,,,,pm25,89.0,142.0
 2025-02-19 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Lahore,,,,,,,uvi,0.0,3.0
+2025-02-19 00:00:00,125,,,,,,,,,forecast_pm25,AQICN,Lahore,,,,,,,pm25,89.0,142.0
 2025-02-20 00:00:00,150,,,,,,,,,forecast_pm25,AQICN,Lahore,,,,,,,pm25,138.0,159.0
 2025-02-20 00:00:00,70,,,,,,,,,forecast_pm10,AQICN,Lahore,,,,,,,pm10,57.0,123.0
 2025-02-20 00:00:00,0,,,,,,,,,forecast_uvi,AQICN,Lahore,,,,,,,uvi,0.0,1.0
@@ -24,8 +24,8 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2025-02-21 00:00:00,66,,,,,,,,,forecast_pm10,AQICN,Lahore,,,,,,,pm10,49.0,77.0
 2025-02-21 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Lahore,,,,,,,uvi,0.0,5.0
 2025-02-21 00:00:00,4,,,,,,,,,forecast_o3,AQICN,Lahore,,,,,,,o3,1.0,39.0
-2025-02-22 00:00:00,56,,,,,,,,,forecast_pm10,AQICN,Lahore,,,,,,,pm10,46.0,73.0
 2025-02-22 00:00:00,136,,,,,,,,,forecast_pm25,AQICN,Lahore,,,,,,,pm25,89.0,159.0
+2025-02-22 00:00:00,56,,,,,,,,,forecast_pm10,AQICN,Lahore,,,,,,,pm10,46.0,73.0
 2025-02-22 00:00:00,1,,,,,,,,,forecast_uvi,AQICN,Lahore,,,,,,,uvi,0.0,5.0
 2025-02-22 00:00:00,1,,,,,,,,,forecast_o3,AQICN,Lahore,,,,,,,o3,1.0,8.0
 2025-02-23 00:00:00,0,,,,,,,,,forecast_uvi,AQICN,Lahore,,,,,,,uvi,0.0,0.0
@@ -138,9 +138,9 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2026-05-16 07:00:00,4,320.15,0.13,1.13,164.32,7.31,37.48,54.4,12.68,history,OpenWeather,Lahore,,,,,,,,,
 2026-05-16 08:00:00,4,235.18,0.09,0.71,147.09,4.07,28.73,46.4,8.16,history,OpenWeather,Lahore,,,,,,,,,
 2026-05-16 09:00:00,4,215.01,0.08,0.67,141.95,3.13,27.21,46.21,7.28,history,OpenWeather,Lahore,,,,,,,,,
-2026-05-16 09:00:00,4,215.01,0.08,0.67,141.95,3.13,27.21,46.21,7.28,forecast,OpenWeather,Lahore,,,,,,,,,
-2026-05-16 09:19:44,4,215.01,0.08,0.67,141.95,3.13,27.21,46.21,7.28,current,OpenWeather,Lahore,,,,,,,,,
+2026-05-16 10:00:00,3,213.9,0.09,0.84,139.94,2.76,27.65,48.18,8.35,history,OpenWeather,Lahore,,,,,,,,,
 2026-05-16 10:00:00,3,213.9,0.09,0.84,139.94,2.76,27.65,48.18,8.35,forecast,OpenWeather,Lahore,,,,,,,,,
+2026-05-16 10:54:06,3,221.98,0.12,1.23,137.07,2.66,28.83,50.56,11.06,current,OpenWeather,Lahore,,,,,,,,,
 2026-05-16 11:00:00,3,221.98,0.12,1.23,137.07,2.66,28.83,50.56,11.06,forecast,OpenWeather,Lahore,,,,,,,,,
 2026-05-16 12:00:00,3,232.43,0.12,1.86,133.87,2.62,29.73,52.69,13.64,forecast,OpenWeather,Lahore,,,,,,,,,
 2026-05-16 13:00:00,3,279.91,0.12,4.66,125.16,2.85,31.5,55.66,25.09,forecast,OpenWeather,Lahore,,,,,,,,,
@@ -235,3 +235,4 @@ timestamp,aqi,co,no,no2,o3,so2,pm2_5,pm10,nh3,type,source,city,dew,h,p,pm25,t,w,
 2026-05-20 06:00:00,4,336.48,0.39,3.09,139.02,2.59,61.52,153.81,26.39,forecast,OpenWeather,Lahore,,,,,,,,,
 2026-05-20 07:00:00,4,158.29,0.13,0.9,122.95,2.17,34.32,109.43,8.05,forecast,OpenWeather,Lahore,,,,,,,,,
 2026-05-20 08:00:00,3,124.35,0.09,0.56,118.05,1.53,25.68,82.15,5.0,forecast,OpenWeather,Lahore,,,,,,,,,
+2026-05-20 09:00:00,3,119.33,0.08,0.55,117.32,1.34,24.03,75.47,4.81,forecast,OpenWeather,Lahore,,,,,,,,,
